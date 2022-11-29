@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
-#requests带上自己浏览器信息的请求头，默认允许重定向
+#Take year 2022 as an example
 headers = {"User-Agent" : "User-Agent:Mozilla/5.0 (Windows NT 10.0;"}
 urls =[]
 i = 0
