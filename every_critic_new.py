@@ -1,5 +1,4 @@
-'''    critic_company = soup.find('div', class_ = 'source div')[0].get_text()
-    full_names.append(critic_company)'''
+#媒体评价页标签 /  Media Views Label
 
 critic_values = []
 review_grades = []
