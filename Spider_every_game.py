@@ -1,3 +1,4 @@
+#游戏详情页标签 /  Game Details Label
 #以2022年为例，通过前一层网页爬取所有2022年各游戏的URL，遍历访问每个游戏URL进一步爬取相关数据
 #Taking 2022 as an example, get the URLs of all games in 2022 through the previous layer of web pages, and traverse through each game URL to obtain relevant data
 from bs4 import BeautifulSoup
